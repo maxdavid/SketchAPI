@@ -6,7 +6,7 @@ All gone.
 Still gone.
 Snax will be back in the morning.
 Hurry up snax!
-
+ERR_NO_SNAX
 
 # Sketch API
 
